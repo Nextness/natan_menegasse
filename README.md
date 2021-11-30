@@ -1,7 +1,7 @@
 Photon by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
+---
 
 A simple (gradient-heavy) single pager that revisits a style I messed with on two
 previous designs (Tessellate and Telephasic). Fully responsive, built on Sass,
@@ -18,14 +18,17 @@ AJ
 aj@lkn.io | @ajlkn
 
 
-Credits:
+### Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+#### Demo Images:
+- Unsplash (unsplash.com)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+#### Icons:
+- Font Awesome (fontawesome.io)
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+#### Other:
+- jQuery (jquery.com)
+- Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+#### https://github.com/surjithctly/documentation-html-template
